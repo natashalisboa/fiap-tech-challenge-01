@@ -54,6 +54,7 @@ dificuldades encontradas.
 </details>
 
 ## Membros do Grupo 02:
-<a href="https://github.com/natashalisboa">Natasha Lisboa</a>
+<a href="https://github.com/natashalisboa">Natasha Lisboa</a> | 
+<a href="https://github.com/lmagueta">Lucas Magueta</a>
 
 </samp>
