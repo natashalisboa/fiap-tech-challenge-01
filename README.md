@@ -56,5 +56,37 @@ dificuldades encontradas.
 ## Membros do Grupo 02:
 <a href="https://github.com/natashalisboa">Natasha Lisboa</a> | 
 <a href="https://github.com/lmagueta">Lucas Magueta</a>
-
 </samp>
+
+# Portal Múltipla Escolha
+- imagem inicial
+
+O projeto é inspirado no icônico <strong>Colégio Múltipla Escolha</strong>, cenário da temporada de Malhação 2004, que representava um espaço jovem, dinâmico, cheio de troca de conhecimentos, ideias e histórias.
+
+A proposta é criar um blog educacional onde professores e professoras podem postar conteúdos, atividades, reflexões e materiais de apoio para seus alunos e alunas, de forma prática e centralizada. Assim como no colégio da série, este ambiente digital incentiva o protagonismo, a interação e a construção coletiva do conhecimento.
+
+- fluxo da aplicação + imagem + explicação
+- documentação
+- demonstração (vídeo)
+- desafios do desenvolvimento
+
+### Aluno:
+login
+   ```
+   AlunaLeticia
+   ```
+senha
+   ```
+   senhadaleticia
+   ```
+
+### Docente:
+login
+   ```
+   ProfessorOscar
+   ```
+senha
+   ```
+   senhadooscar
+   ```
+
