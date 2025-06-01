@@ -72,7 +72,6 @@ A proposta é um design clean e minimalista, priorizando apenas as informações
 
 ### Breve Demonstração:
 - [Vídeo](https://www.youtube.com/watch?v=GG_Lx9D9NbI)
-- Prints:
 
 ### Proposta de testes:
 Plataforma: [Portal Múltipla Escolha](https://personal-s3qu3hta.outsystemscloud.com/ME/Login)
@@ -98,5 +97,24 @@ senha
    ```
 
 ## Processo de Trabalho do Grupo e Desafios Encontrados
-teste
+Durante o desenvolvimento do projeto, nosso grupo enfrentou alguns desafios técnicos e de design, que foram fundamentais para nosso aprendizado. Abaixo listamos os principais pontos:
+
+- **Autenticação e Autorização:** Embora a autenticação não fosse um requisito obrigatório para esta fase, decidimos implementar uma tela de login para simular uma experiência mais próxima da realidade de um portal educacional. Nosso maior desafio foi **compreender e configurar** as `roles` dentro da plataforma `OutSystems`, definindo claramente quais funcionalidades estariam disponíveis para os `docentes` (visão administrativa) e para os `alunos` (visão de usuário). Inicialmente, optamos por deixar visíveis o ícone de edição e o botão de criação de novas postagens também para os alunos, porque esses elementos redirecionam para uma tela de aviso sobre restrição de acesso. Para etapas futuras, consideramos aprimorar essa lógica, ocultando completamente esses elementos para quem não tiver permissão.
+
+- **Aprendizado sobre Widgets e Componentes:** Durante a implementação, percebemos que nem sempre o comportamento dos widgets era exatamente como imaginávamos. Por exemplo, acreditávamos que o widget `Expression` dentro de um `Container` quebraria o texto automaticamente ao atingir o limite do container, o que não aconteceu. Foi necessário aplicar uma estilização personalizada em CSS para resolver o problema de quebra de texto, utilizando a seguinte classe:
+ ```
+ .break-word {
+  word-break: break-word;
+  white-space: normal;
+}
+   ```
+Essa solução garantiu que os textos se adaptassem corretamente aos espaços definidos, sem quebrar a harmonia do layout.
+
+- **Estilo e Identidade Visual:** Optamos por um design simples, priorizando a funcionalidade. Criamos uma logo no **Canva** representando o Colégio Múltipla Escolha, e adotamos a cor amarela como elemento principal do tema, conferindo identidade ao projeto. Embora tenhamos mantido um estilo minimalista, identificamos melhorias que podem ser aplicadas nas próximas iterações, sendo elas:
+<p>⛔ Classificação por Matérias: Criar um enum com as matérias para associar aos posts, exibindo como tags, facilitando a identificação e futuramente a filtragem dos conteúdos.</p>
+<p>⛔ Paleta de Cores Mais Rica: Expandir a paleta para além do amarelo, tornando o visual mais atrativo e menos minimalista.</p>
+<p>⛔ Melhorar a Lista de Posts: Além de título e data, exibir um pequeno resumo (excerto) do conteúdo, tornando a navegação mais agradável e informativa para os usuários.</p>
+
+### Conclusão
+Cada desafio enfrentado representou uma oportunidade de aprendizado, especialmente na exploração dos recursos da plataforma OutSystems. Estamos satisfeitos com o resultado alcançado nesta fase e motivados para aprimorar ainda mais o projeto nas próximas etapas.
 
