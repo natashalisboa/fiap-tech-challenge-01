@@ -63,15 +63,22 @@ O projeto é inspirado no icônico <strong>Colégio Múltipla Escolha</strong>, 
 A proposta é criar um blog educacional onde professores e professoras podem postar conteúdos, atividades, reflexões e materiais de apoio para seus alunos e alunas, de forma prática e centralizada. Assim como no colégio da série, este ambiente digital incentiva o protagonismo, a interação e a construção coletiva do conhecimento.
 
 ## Fluxo da Aplicação 
-- imagem (draw.io) + explicação
+- imagem (draw.io)
+
+> **Atenção:** Usuários cujo papel é `Aluno` não possuem acesso à recursos administrativos, ou seja, as funcionalidades de criar, editar ou deletar aulas são restritas a `Docentes`.
 
 ### Layout Proposto
 A proposta é um design clean e minimalista, priorizando apenas as informações essenciais. A paleta de cores tem como destaque o amarelo, remetendo a memória do fictício Colégio Múltipla Escolha. Também é possível utilizar o dark mode.
-- + documentação (com prints)
-### Usuários para testes:
 
-### Aluno:
-login
+### Breve Demonstração:
+- [Vídeo](https://www.youtube.com/watch?v=GG_Lx9D9NbI)
+- Prints:
+
+### Proposta de testes:
+Plataforma: [Portal Múltipla Escolha](https://personal-s3qu3hta.outsystemscloud.com/ME/Login)
+
+<strong>Exemplo de Credencial Aluno (Visão Usuário):</strong><br>
+<br>login
    ```
    AlunaLeticia
    ```
@@ -80,8 +87,8 @@ senha
    senhadaleticia
    ```
 
-### Docente:
-login
+<strong>Exemplo de Credencial Docente (Visão Administrativa):</strong><br>
+<br>login
    ```
    ProfessorOscar
    ```
@@ -89,7 +96,7 @@ senha
    ```
    senhadooscar
    ```
-### Demonstração
-[Vídeo](https://www.youtube.com/watch?v=GG_Lx9D9NbI)
-- desafios do desenvolvimento
+
+## Processo de Trabalho do Grupo e Desafios Encontrados
+teste
 
