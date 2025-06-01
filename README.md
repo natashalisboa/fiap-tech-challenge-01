@@ -1,7 +1,6 @@
 <samp>
 
 # Tech Challenge 01 - Pós Tech FIAP - FSDT/2025 - Grupo 02
-⚠️ <strong>WORK IN PROGRESS</strong> ⚠️
 <p>💾 Primeiro desafio da pós graduação em desenvolvimento full-stack <a href="https://postech.fiap.com.br/curso/full-stack-development">@FIAP</a></p> 
 <details>
   <summary><samp>Descrição do Desafio</samp></summary>
@@ -90,6 +89,7 @@ senha
    ```
    senhadooscar
    ```
-- demonstração (vídeo)
+### Demonstração
+[Vídeo](https://www.youtube.com/watch?v=GG_Lx9D9NbI)
 - desafios do desenvolvimento
 
