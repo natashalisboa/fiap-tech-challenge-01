@@ -59,16 +59,17 @@ dificuldades encontradas.
 </samp>
 
 # Portal Múltipla Escolha
-- imagem inicial
-
-O projeto é inspirado no icônico <strong>Colégio Múltipla Escolha</strong>, cenário da temporada de Malhação 2004, que representava um espaço jovem, dinâmico, cheio de troca de conhecimentos, ideias e histórias.
-
+ <p><img src="/assets/logo.png"></p>
+O projeto é inspirado no icônico <strong>Colégio Múltipla Escolha</strong>, cenário da temporada de <strong>Malhação 2004</strong>, que representava um espaço jovem, dinâmico, cheio de troca de conhecimentos, ideias e histórias.<br>
 A proposta é criar um blog educacional onde professores e professoras podem postar conteúdos, atividades, reflexões e materiais de apoio para seus alunos e alunas, de forma prática e centralizada. Assim como no colégio da série, este ambiente digital incentiva o protagonismo, a interação e a construção coletiva do conhecimento.
 
-- fluxo da aplicação + imagem + explicação
-- documentação
-- demonstração (vídeo)
-- desafios do desenvolvimento
+## Fluxo da Aplicação 
+- imagem (draw.io) + explicação
+
+### Layout Proposto
+A proposta é um design clean e minimalista, priorizando apenas as informações essenciais. A paleta de cores tem como destaque o amarelo, remetendo a memória do fictício Colégio Múltipla Escolha. Também é possível utilizar o dark mode.
+- + documentação (com prints)
+### Usuários para testes:
 
 ### Aluno:
 login
@@ -89,4 +90,6 @@ senha
    ```
    senhadooscar
    ```
+- demonstração (vídeo)
+- desafios do desenvolvimento
 
