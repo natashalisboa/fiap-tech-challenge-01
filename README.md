@@ -63,7 +63,7 @@ O projeto é inspirado no icônico <strong>Colégio Múltipla Escolha</strong>, 
 A proposta é criar um blog educacional onde professores e professoras podem postar conteúdos, atividades, reflexões e materiais de apoio para seus alunos e alunas, de forma prática e centralizada. Assim como no colégio da série, este ambiente digital incentiva o protagonismo, a interação e a construção coletiva do conhecimento.
 
 ## Fluxo da Aplicação 
-- imagem (draw.io)
+ <p><img src="/assets/fluxograma.png"></p>
 
 > **Atenção:** Usuários cujo papel é `Aluno` não possuem acesso à recursos administrativos, ou seja, as funcionalidades de criar, editar ou deletar aulas são restritas a `Docentes`.
 
