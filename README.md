@@ -117,4 +117,4 @@ Essa solução garantiu que os textos se adaptassem corretamente aos espaços de
 
 ### Conclusão
 Cada desafio enfrentado representou uma oportunidade de aprendizado, especialmente na exploração dos recursos da plataforma OutSystems. Estamos satisfeitos com o resultado alcançado nesta fase e motivados para aprimorar ainda mais o projeto nas próximas etapas.
-
+<p><img src="/assets/gerar_certificado_fase.png"></p>
